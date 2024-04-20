@@ -7358,13 +7358,15 @@ Transform:
   - {fileID: 640156902}
   - {fileID: 1775690586}
   - {fileID: 1758875473}
+  - {fileID: 1093719382}
   - {fileID: 1098498693}
   - {fileID: 917447630}
   - {fileID: 608479396}
   - {fileID: 1662604265}
   - {fileID: 1871910491}
   - {fileID: 2102261393}
-  - {fileID: 1093719382}
+  - {fileID: 2044766430}
+  - {fileID: 1012733744}
   - {fileID: 1039547919}
   - {fileID: 601236289}
   - {fileID: 357900938}
@@ -7392,8 +7394,6 @@ Transform:
   - {fileID: 1129761816}
   - {fileID: 1840431962}
   - {fileID: 958786837}
-  - {fileID: 2044766430}
-  - {fileID: 1012733744}
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
